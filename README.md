@@ -1,2 +1,2 @@
 # technicalDocumentationPage
-<h3>A Technocal Documentation Page project</h3>
+<h3>A Technical Documentation Page project</h3>
